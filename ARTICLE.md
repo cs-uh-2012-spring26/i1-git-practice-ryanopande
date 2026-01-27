@@ -1,4 +1,5 @@
 Article: “Is High Quality Software Worth the Cost?”
+
 Link: https://martinfowler.com/articles/is-quality-worth-cost.html
 
 

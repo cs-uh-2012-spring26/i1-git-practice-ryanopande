@@ -7,5 +7,6 @@ An article by Martin Fowler on the idea that "quality" is abstract and goal focu
 
 It relates with working on projects that start fast and scrappy then slowly become painful to change. This article kinda explains why some teams move faster while others grind to a halt. I like how it is deep and makes me think about making a software just to get it to work. 
 
-Proof Reading 
+Proof Reading
+ 
 Article checked for typos

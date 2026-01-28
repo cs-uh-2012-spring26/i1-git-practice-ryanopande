@@ -8,4 +8,4 @@ A simple project to practice a few git/github workflows.  Update this file as in
 
 ##Link to Merged PR:
 
-https://github.com/cs-uh-2012-spring26/i1-git-practice-ryanopande/commit/6d4a413df307b51f360a048e5fb96fe412b35e61
+https://github.com/cs-uh-2012-spring26/i1-git-practice-paul0paulo/pull/2

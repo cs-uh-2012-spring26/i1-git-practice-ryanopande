@@ -10,6 +10,12 @@ It relates with working on projects that start fast and scrappy then slowly beco
 Proof Reading
  
 Article checked for typos
+## Paul Cosmas Luziga Changes
+ The article is very interesting especially its summary that is:
+* Neglecting internal quality leads to rapid build up of cruft
+* This cruft slows down feature development
+* Even a great team produces cruft, but by keeping internal quality high, is able to keep it under control
+* High internal quality keeps cruft to a minimum, allowing a team to add features with less effort, time, and cost
 
 
 ##Link to Merged PR 

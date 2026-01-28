@@ -10,3 +10,7 @@ It relates with working on projects that start fast and scrappy then slowly beco
 Proof Reading
  
 Article checked for typos
+
+
+##Link to Merged PR 
+https://github.com/cs-uh-2012-spring26/i1-git-practice-ryanopande/commit/6d4a413df307b51f360a048e5fb96fe412b35e61

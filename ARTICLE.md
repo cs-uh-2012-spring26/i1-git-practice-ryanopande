@@ -17,7 +17,3 @@ Article checked for typos
 * Even a great team produces cruft, but by keeping internal quality high, is able to keep it under control
 * High internal quality keeps cruft to a minimum, allowing a team to add features with less effort, time, and cost
 
-
-##Link to Merged PR:
-
-https://github.com/cs-uh-2012-spring26/i1-git-practice-ryanopande/commit/6d4a413df307b51f360a048e5fb96fe412b35e61
